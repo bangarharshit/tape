@@ -18,6 +18,11 @@ prepares and executes enqueued tasks.
 
 *Some examples are available on [the website][1].*
 
+Changes over original:
+
+1. ThreadSafe.
+2. Reactive API.
+
 *Example with observables*
 
 ```java
